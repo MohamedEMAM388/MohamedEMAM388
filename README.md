@@ -16,62 +16,55 @@
 
 ---
 
-### ⚙️ Core Backend Stack
+### 🧠 Skills
 
+**Backend**
 <p align="left">
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white"/>
   <img src="https://img.shields.io/badge/ASP.NET_Core-5C2D91?style=flat-square&logo=dotnet&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=flat-square&logo=nuget&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
   <img src="https://img.shields.io/badge/REST_APIs-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Clean_Architecture-2E3440?style=flat-square&logo=serverless&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JWT_Auth-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
 </p>
 
-### 🛠️ Tech Stack
-
+**Architecture & Patterns**
 <p align="left">
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Clean_Architecture-2E3440?style=flat-square&logo=serverless&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CQRS-6E40C9?style=flat-square"/>
+  <img src="https://img.shields.io/badge/SOLID_Principles-4B8BBE?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Design_Patterns-FF6F00?style=flat-square"/>
+  <img src="https://img.shields.io/badge/MediatR-8CC152?style=flat-square"/>
 </p>
 
----
+**Databases**
+<p align="left">
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=flat-square&logo=nuget&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LINQ-5C2D91?style=flat-square"/>
+</p>
 
-### 🚀 Projects
-
-<table>
-  <tr>
-    <td width="100%">
-      <h4>🖥️ Ecommerce API</h4>
-      <p>Backend API using ASP.NET Core, JWT, EF Core, and SQL Server.</p>
-      <img src="https://img.shields.io/badge/ASP.NET_Core-5C2D91?style=flat-square&logo=dotnet&logoColor=white"/>
-      <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
-      <img src="https://img.shields.io/badge/EF_Core-512BD4?style=flat-square"/>
-    </td>
-  </tr>
-  <tr>
-    <td width="100%">
-      <h4>🏋️ Gym Management System</h4>
-      <p>MVC application for memberships and trainer management.</p>
-      <img src="https://img.shields.io/badge/ASP.NET_MVC-5C2D91?style=flat-square&logo=dotnet&logoColor=white"/>
-      <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
-    </td>
-  </tr>
-</table>
+**Tools**
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
+</p>
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MohamedEMAM388&show_icons=true&theme=dark&hide_border=true&count_private=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedEMAM388&layout=compact&theme=dark&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MohamedEMAM388&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedEMAM388&theme=dark&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedEMAM388&layout=compact&theme=dark&hide_border=true" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=MohamedEMAM388&theme=dark&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 ---
@@ -79,11 +72,3 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MohamedEMAM388&style=flat-square&color=8CC152" alt="Profile views"/>
 </p>
-
-<p align="left">🚀 Projects</p>
-
-###
-
-<p align="left">🛒 Ecommerce API<br>Backend API using ASP.NET Core, JWT, EF Core, and SQL Server.<br><br>🏋️ Gym Management System<br>MVC application for memberships and trainer management.</p>
-
-###
