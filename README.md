@@ -2,7 +2,7 @@
 <h3 align="center">Backend .NET Developer | ASP.NET Core</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=8CC152&center=true&vCenter=true&width=500&lines=Building+scalable+APIs+with+.NET;Clean+Architecture+%7C+CQRS+%7C+DDD;Always+learning%2C+always+shipping." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=8CC152&center=true&vCenter=true&width=500&lines=Building+scalable+APIs+with+.NET;Clean+Architecture+%7C+CQRS;Always+learning%2C+always+shipping." alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -54,14 +54,6 @@
 ---
 
 ### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MohamedEMAM388&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedEMAM388&layout=compact&theme=dark&hide_border=true" alt="Top Languages"/>
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=MohamedEMAM388&theme=dark&hide_border=true" alt="GitHub Streak"/>
