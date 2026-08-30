@@ -2,7 +2,7 @@
 <h3 align="center">Backend .NET Developer | ASP.NET Core</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=8CC152&center=true&vCenter=true&width=500&lines=Building+scalable+APIs+with+.NET;Clean+Architecture+%7C+CQRS;Always+learning%2C+always+shipping." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=8CC152&center=true&vCenter=true&width=500&lines=Building+scalable+APIs+with+.NET" alt="Typing SVG" />
 </p>
 
 <p align="center">
