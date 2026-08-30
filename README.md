@@ -30,6 +30,9 @@
 **Architecture & Patterns**
 <p align="left">
   <img src="https://img.shields.io/badge/Clean_Architecture-2E3440?style=flat-square&logo=serverless&logoColor=white"/>
+  <img src="https://img.shields.io/badge/N--Tier_Architecture-3B4252?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Onion_Architecture-D08770?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Vertical_Slice_Architecture-A3BE8C?style=flat-square"/>
   <img src="https://img.shields.io/badge/CQRS-6E40C9?style=flat-square"/>
   <img src="https://img.shields.io/badge/SOLID_Principles-4B8BBE?style=flat-square"/>
   <img src="https://img.shields.io/badge/Design_Patterns-FF6F00?style=flat-square"/>
