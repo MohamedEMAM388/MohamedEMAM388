@@ -16,6 +16,15 @@
 
 ---
 
+### 👨‍💻 About Me
+
+- 🎓 Backend .NET Developer focused on building clean, scalable APIs
+- 💡 Passionate about writing maintainable code following best practices and architecture patterns
+- ⚡ Always exploring new ways to structure backend systems better
+- 📫 Open to backend opportunities and collaborations
+
+---
+
 ### 🧠 Skills
 
 **Backend**
