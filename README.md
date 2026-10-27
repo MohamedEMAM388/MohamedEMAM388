@@ -111,10 +111,10 @@ Clean Architecture · Onion · N-Tier · Vertical Slice · CQRS · Repository + 
 
 ---
 
-## 📈 Contribution Activity
+## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MohamedEMAM388&bg_color=0D1117&color=8CC152&line=512BD4&point=FFFFFF&area=true&area_color=512BD4&hide_border=true" alt="Contribution Graph"/>
+  <img src="https://raw.githubusercontent.com/MohamedEMAM388/MohamedEMAM388/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake"/>
 </p>
 
 ---
