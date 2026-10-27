@@ -16,8 +16,8 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/mohamed-hisham-048b3531b"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:mohamedhisham5691@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
@@ -111,14 +111,22 @@ Clean Architecture · Onion · N-Tier · Vertical Slice · CQRS · Repository + 
 
 ---
 
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MohamedEMAM388&bg_color=0D1117&color=8CC152&line=512BD4&point=FFFFFF&area=true&area_color=512BD4&hide_border=true" alt="Contribution Graph"/>
+</p>
+
+---
+
 ## 🤝 Let's Connect
 
 I'm open to backend opportunities, collaboration and discussing .NET topics.
 
 | | |
 |---|---|
-| 📧 Email | [YOUR_EMAIL@gmail.com](mailto:YOUR_EMAIL@gmail.com) |
-| 💼 LinkedIn | [linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/YOUR_LINKEDIN) |
+| 📧 Email | [mohamedhisham5691@gmail.com](mailto:mohamedhisham5691@gmail.com) |
+| 💼 LinkedIn | [linkedin.com/in/mohamed-hisham-048b3531b](https://www.linkedin.com/in/mohamed-hisham-048b3531b) |
 | 🐙 GitHub | [@MohamedEMAM388](https://github.com/MohamedEMAM388) |
 
 <p align="center">
